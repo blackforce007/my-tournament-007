@@ -1,0 +1,16 @@
+{
+  "teams": [
+    ["Player 1", "Player 2"],
+    ["Player 3", "Player 4"]
+  ],
+  "results": [
+    [[null, null], [null, null]], 
+    [[null, null]]
+  ],
+  "scores": {
+    "Player 1": 0,
+    "Player 2": 0,
+    "Player 3": 0,
+    "Player 4": 0
+  }
+}
